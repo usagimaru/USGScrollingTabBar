@@ -1,6 +1,6 @@
 # USGScrollingTabBar
 
-![](./sample.gif)
+![animation](./sample.gif) ![screenshot](./screenshot.jpg)
 
 USGScrollingTabBar は iOS 向けのスクロールタブバー部品の実装です。Objective-C で書かれています。
 他のスクロールビューと連動したタブのスクロールが可能です。その際、選択状態のタブは中心に留まるように調整されます。また、タブバー自体は独立してスクロールすることも可能です。タブ幅は文字列に合わせて可変的に調整されます。
@@ -65,7 +65,7 @@ MIT license でライセンスしています。詳細は LICENSE ファイル�
 
 # USGScrollingTabBar (English)
 
-![](./sample.gif)
+![animation](./sample.gif) ![screenshot](./screenshot.jpg)
 
 USGScrollingTabBar is a scrolling tab bar component for iOS written in Objective-C.
 It is scroll by synchronized with another UIScrollView. Then the selection tab will be adjusted at the center point.
