@@ -3,6 +3,7 @@
 ![animation](./sample.gif) ![screenshot](./screenshot.jpg)
 
 Swift 版：[USGScrollingTabBar_Swift](https://github.com/usagimaru/USGScrollingTabBar_Swift)
+
 Objective-C 版はもうメンテしません。
 
 USGScrollingTabBar は iOS 向けのスクロールタブバー部品の実装です。Objective-C で書かれています。
@@ -71,6 +72,7 @@ MIT license でライセンスしています。詳細は LICENSE ファイル�
 ![animation](./sample.gif) ![screenshot](./screenshot.jpg)
 
 Swift Version: [USGScrollingTabBar_Swift](https://github.com/usagimaru/USGScrollingTabBar_Swift)
+
 This Objective-C project is no longer maintenance.
 
 USGScrollingTabBar is a scrolling tab bar component for iOS written in Objective-C.
